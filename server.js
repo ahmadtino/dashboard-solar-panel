@@ -1,0 +1,1 @@
+const hostServer = "https://dull-cyan-cricket-sock.cyclic.app";
