@@ -155,7 +155,7 @@ function deleteData() {
 }
 
 fetchingData();
-setInterval(fetchingData, 900000);
+setInterval(fetchingData, 15000);
 
 del.addEventListener("click", deleteData);
 
